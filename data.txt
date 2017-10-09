@@ -1,0 +1,3 @@
+Name: Eduardo
+Age: 27
+Favorite Color: All
